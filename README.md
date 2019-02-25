@@ -2,8 +2,6 @@
 
 
 It is part of the full project, https://github.com/JsnDg/ECE143-Project. 
-# ECE143-Project:Prediction of Forest Fires Based on Meteorological Analysis
-Authors: Group 11:Zijian Ding, Gitika Karumuri, Kunmao Li, Jianing Zhang
 
 Project Description:
 We have analyzed a dataset collected from forests in the northeast region of Portugal with the utilization of FWI system. Firstly, we established relationships between the meteorological factors(e.g. temperatrue, relative humidity, wind) as well as model features(e.g. FFMC, DMC) correlated to forest fires. Having acquired the weights and influence of different factors on forest fires, We then applied the relationship to building a prediction system for forest fires. The system will calculate the parametrs input and give feedback on the probability of potential forest fires using SVM.
